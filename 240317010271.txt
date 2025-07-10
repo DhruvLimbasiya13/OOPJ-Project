@@ -1,0 +1,10 @@
+================= TICKET =================
+Ticket Number: 1001
+Passenger Name: abc
+Age: 18
+Gender: male
+Aadhaar: 240317010271
+Coach Type: SL
+Seat Number: 47
+Ticket Price: Rs. 325
+==========================================
